@@ -1,3 +1,10 @@
 *.txt
 
 !importante.txt
+
+
+#para no subir pycache
+
+__pycache__/
+*.py[cod]
+.$py.class
